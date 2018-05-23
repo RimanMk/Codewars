@@ -1,0 +1,7 @@
+D:\SoftServe\Projects\Codewars\LINQ\First non-repeating character\First non-repeating character\First non-repeating character\bin\Debug\First non-repeating character.exe.config
+D:\SoftServe\Projects\Codewars\LINQ\First non-repeating character\First non-repeating character\First non-repeating character\bin\Debug\First non-repeating character.exe
+D:\SoftServe\Projects\Codewars\LINQ\First non-repeating character\First non-repeating character\First non-repeating character\bin\Debug\First non-repeating character.pdb
+D:\SoftServe\Projects\Codewars\LINQ\First non-repeating character\First non-repeating character\First non-repeating character\obj\Debug\First non-repeating character.csprojAssemblyReference.cache
+D:\SoftServe\Projects\Codewars\LINQ\First non-repeating character\First non-repeating character\First non-repeating character\obj\Debug\First non-repeating character.csproj.CoreCompileInputs.cache
+D:\SoftServe\Projects\Codewars\LINQ\First non-repeating character\First non-repeating character\First non-repeating character\obj\Debug\First non-repeating character.exe
+D:\SoftServe\Projects\Codewars\LINQ\First non-repeating character\First non-repeating character\First non-repeating character\obj\Debug\First non-repeating character.pdb
